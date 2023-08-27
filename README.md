@@ -39,10 +39,6 @@ The primary objective of this project is image segmentation. Image segmentation 
 
 Contributions are welcome! If you find any issues or have suggestions for improvement, please open an issue or submit a pull request.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
 ## Contact
 
 For questions or feedback, you can reach us at [saumitrapathak11@gmail.com](mailto:saumitrapathak11@gmail.com).
